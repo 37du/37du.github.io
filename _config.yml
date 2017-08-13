@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.eai37.com
+url: http://eai37.com
 date_format: "ordinal"
 title: 90后大叔的打码生活
 subtitle: "打码改变人生"
