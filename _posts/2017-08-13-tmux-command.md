@@ -1,5 +1,9 @@
-cription:  tmux常用命令
-keywords: tmux, command
+---
+layout: post
+title: tmux 常用命令
+categories: tools, tmux
+description:  tmux 常用命令
+keywords: tmux, command, tools, efficient
 ---
 
 | 命令 | 描述 |
