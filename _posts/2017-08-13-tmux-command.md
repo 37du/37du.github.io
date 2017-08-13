@@ -6,6 +6,9 @@ description:  tmux 常用命令
 keywords: tmux, command, tools, efficient
 ---
 
+整理一些 tmux 常用的命令， 以及入门指南。
+
+
 | 命令 | 描述 |
 | ------- |:-----------:|-----------------:|
 | tmux new-session | 创建一个未命名的会话。可以简写为 tmux new 或者就一个简单的 tmux|
