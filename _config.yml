@@ -92,7 +92,7 @@ gitment:
     owner: 37du
     repo: 37du.github.io
     oauth:
-        client_id: d2e1cbbd298958076462
+        client_id: ad11102d7329c5ed2196
         client_secret: d6dca9b6e2eb012978ea82ccf8b486f147b0d31b
 
 # ---------------- #
